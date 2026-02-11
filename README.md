@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shanzita&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Researcher%20•%20Hackathon%20Champion%20•%20ICPC%20Medalist&descSize=16&descAlignY=52" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shanzita&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Researcher%20•%20Hackathon%20Champion%20•%20ICPC%20Competitor&descSize=16&descAlignY=52" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%94%AC+Building+AI+for+Real-World+Impact;%F0%9F%8F%86+Hackathon+Winner+%7C+ICPC+Silver+Medalist;%F0%9F%8E%93+CS+%40+Rice+University+%7C+CHILI+Lab" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%94%AC+Building+AI+for+Real-World+Impact;%F0%9F%8F%86+Hackathon+Winner+%7C+ICPC+SCUSA+7th+Place;%F0%9F%8E%93+CS+%40+Rice+University+%7C+CHILI+Lab" alt="Typing SVG" />
   </a>
 </p>
 
@@ -53,9 +53,9 @@ Fun Fact: I thrive on hackathons & Monster Energy ⚡
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🥈_ICPC-Silver_Medal-C0C0C0?style=for-the-badge&labelColor=1a1a2e" /><br/>
+<img src="https://img.shields.io/badge/🏅_ICPC-7th_Place-4ECDC4?style=for-the-badge&labelColor=1a1a2e" /><br/>
 <sub><b>SCUSA Regional</b></sub><br/>
-<sub>7th Place · Division 2</sub>
+<sub>Division 2</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🏆_HackBrown-Winner-FFD700?style=for-the-badge&labelColor=1a1a2e" /><br/>
@@ -240,11 +240,6 @@ Building <b>AI agent systems</b> that analyze <b>100K+ tweets</b> to detect hurr
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanzita&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9" />
-</p>
-
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanzita&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6F61" width="95%"/>
 </p>
 
 <!-- TROPHIES -->
