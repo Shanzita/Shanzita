@@ -231,22 +231,6 @@ Building <b>AI agent systems</b> that analyze <b>100K+ tweets</b> to detect hurr
 ---
 
 <!-- GITHUB STATS -->
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shanzita&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shanzita&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6F61&currStreakLabel=6C63FF" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanzita&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9" />
-</p>
-
-<!-- TROPHIES -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shanzita&theme=algolia&no-frame=true&column=7&margin-w=10" />
-</p>
-
 <!-- SNAKE -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shanzita/Shanzita/output/github-snake-dark.svg" alt="Snake animation" />
